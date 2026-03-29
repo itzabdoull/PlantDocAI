@@ -1,0 +1,7 @@
+{
+  "name": "PlantDoc AI",
+  "description": "Snap a photo of your plant to detect diseases and get instant treatment solutions powered by Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
